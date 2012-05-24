@@ -1,3 +1,7 @@
+More information can be found here
+======
+http://robots.thoughtbot.com/post/8700977975/2011-rubyists-guide-to-a-mac-os-x-development
+
 Laptop
 ======
 
